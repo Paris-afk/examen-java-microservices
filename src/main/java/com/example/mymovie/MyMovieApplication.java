@@ -2,7 +2,7 @@ package com.example.mymovie;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
-
+//swagger working
 @SpringBootApplication
 public class MyMovieApplication {
 
